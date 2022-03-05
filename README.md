@@ -15,13 +15,15 @@ In order to make the code run more efficiently, I needed to switch the nesting o
 ## Comparing the Original Run Times to the Refactored Run Times
 
 Run times for the original code took around .71 seconds for 2017 and .64 seconds for 2018.
+![/Resources/Code Performance_Module(2017)] (/Resources/Code Performance_Module(2017).png)
 
-![/Resources/Code Performance_Module(2017)](/Resources/Code Performance_Module(2017).png) 
+![/Resources/Code Performance_Module(2018)] (/Resources/Code Performance_Module(2018).png)
 
-![/Resources/Code Performance_Module(2018)](/Resources/Code Performance_Module(2018).png)
+Run times for the refactored code took around .10 seconds for 2017 and 2018
 
-Run times for the refactored code took around .08 seconds, which is displayed in scientific notation: 8 E -02.
+![/Resources/VBA_Challenge_2017] (/Resources/VBA_Challenge_2017.png) 
 
+![/Resources/VBA_Challenge_2018] (/Resources/VBA_Challenge_2018.png) 
 
 Refactoring the code did make the run times decrease, which optimizes the code. 
 
