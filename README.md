@@ -5,7 +5,7 @@ VBA of Wall Street
 Assist Steve to help his parents analyze the performance of green every stocks in the years 2017 and 2018. 
 
 ## Purpose
-Conduct an initial stock analysis for Steve and refractor the original VBA code to observe if the code will run more efficiently by measuring the time it takes to complete the code (original VBA script vs refractory script).
+Conduct an initial stock analysis for Steve and refractor the original VBA code to observe if the code will run more efficiently by measuring the time it takes to complete the code (original VBA script vs refractored script).
 
 The VBA code uses a timer, arrays, if-then conditional statements, assigns long/string data types, and adds static/conditional formatting.
 
@@ -23,7 +23,6 @@ Run times for the refactored code took around .10 seconds for 2017 and 2018
 ![Resources/VBA_Challenge_2018](Resources/VBA_Challenge_2018.png) 
 
 Refactoring the code did make the run times decrease, which optimizes the code. 
-
 
 
 # Summary
