@@ -16,7 +16,7 @@ In order to make the code run more efficiently, I needed to switch the nesting o
 
 Run times for the original code took around .71 seconds for 2017 and .64 seconds for 2018.
 
-![Resources/Code Performance_Module(2017)] (/Resources/Code Performance_Module(2017).png)
+![Resources/Code Performance_Module(2017)](Resources/Code Performance_Module(2017).png) 
 
 ![Resources/Code Performance_Module(2018)] (/Resources/Code Performance_Module(2018).png)
 
